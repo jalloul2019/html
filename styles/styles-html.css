@@ -1,5 +1,5 @@
-﻿.applies thead th > * { display: block; }
-.applies thead code { display: block; }
+﻿.applies thead th > * { display: inline; }
+.applies thead code { display: inline; }
 .applies tbody th { white-space: nowrap; }
 .applies td { text-align: center; }
 .applies .yes, .yesno .yes { background: yellow; }
