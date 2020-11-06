@@ -6,3 +6,4 @@ Per the [MOU of W3C and WHATWG](https://www.w3.org/blog/2019/05/w3c-and-whatwg-t
 ## Old HTML repository
 
 The [old HTML repo](https://github.com/w3c/html-old) is available for archival purposes.
+
